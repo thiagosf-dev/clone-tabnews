@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <h1>Se tu me amas, dá uma risadinha 😁</h1>
+        <h1>🌹 Se tu me amas, dá uma risadinha 😁</h1>
     )
 }
 
